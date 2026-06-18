@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zivvanto.github.io/sitemap.xml

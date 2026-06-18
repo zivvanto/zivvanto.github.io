@@ -1,0 +1,44 @@
+Zivvanto Bakery SEO Update Guide
+
+Website URL updated to:
+https://zivvanto.github.io/
+
+This ZIP includes SEO essentials:
+1. SEO title and meta description
+2. Canonical URL
+3. Open Graph and Twitter preview tags
+4. Local Bakery schema JSON-LD
+5. FAQ schema JSON-LD
+6. Visible local SEO section with Jodhpur/Sardarpura keywords
+7. sitemap.xml
+8. robots.txt
+9. Updated image folder assets including new designer cake images dc371.jpg to dc380.jpg
+
+Because you already have Google Business Profile / Google Maps listing:
+- Add website URL there: https://zivvanto.github.io/
+- Keep business name exactly: Zivvanto Bakery
+- Keep address exactly: 1st C Road, Sardarpura, Jodhpur 342003
+- Add categories: Bakery, Cake Shop, Dessert Shop
+- Upload real cake photos every week
+- Ask real customers for Google reviews
+
+Google Search Console:
+1. Open https://search.google.com/search-console
+2. Add URL prefix property: https://zivvanto.github.io/
+3. Verify by HTML file if Google gives one
+4. Upload that verification HTML file to GitHub root
+5. Submit sitemap: https://zivvanto.github.io/sitemap.xml
+
+Upload links if your GitHub account/repo is zivvanto/zivvanto.github.io:
+Main root upload:
+https://github.com/zivvanto/zivvanto.github.io/upload/main
+
+Images folder upload:
+https://github.com/zivvanto/zivvanto.github.io/upload/main/images
+
+If your GitHub username/repo is different, replace zivvanto with your actual GitHub username.
+
+After upload, test:
+https://zivvanto.github.io/?v=15
+https://zivvanto.github.io/sitemap.xml
+https://zivvanto.github.io/robots.txt
